@@ -1,0 +1,9 @@
+{
+  "name": "AXP iFrame Click to Call",
+  "description": "AXP iFrame Click to Call",
+  "tags": ["clickToCall", "iframe"],
+  "version": "0.0.1",
+  "element": "<axpiframe-clicktocall></axpiframe-clicktocall>",
+  "icon": "neo-icon-crm",
+  "files": ["axpiframeclicktocall.js"]
+}

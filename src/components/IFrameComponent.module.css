@@ -1,0 +1,28 @@
+.container {
+  padding: 10px;
+  width: 100%;
+  height: 100vh;
+}
+
+.formContainer {
+  width: 80%;
+  margin: 10px 0px;
+}
+
+.inputText {
+  width: 70%;
+  flex: 1;
+  padding: 4px;
+  margin-right: 10px;
+}
+.buttonAction {
+  padding: 5px 20px;
+  background-color: rgb(55 118 157);
+  color: white;
+  border: none;
+  border-radius: 2px;
+}
+.iframeContainer {
+  width: 100%;
+  height: 83vh;
+}
